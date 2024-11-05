@@ -1,5 +1,3 @@
-Here’s a README file for your Expense Tracker CLI application. It outlines the application’s features, usage instructions, and other relevant information.
-
 ```markdown
 # Expense Tracker CLI Application
 

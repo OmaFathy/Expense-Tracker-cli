@@ -1,4 +1,4 @@
-Here’s an updated version of your README file for the Expense Tracker CLI application, including a section that references the roadmap for the project at [roadmap.sh](https://roadmap.sh/projects/expense-tracker).
+Here’s an updated version of your README file for the Expense Tracker CLI application, including a section that references the roadmap for the project at (https://roadmap.sh/projects/expense-tracker).
 
 ```markdown
 # Expense Tracker CLI Application
